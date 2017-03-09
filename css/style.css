@@ -1,0 +1,35 @@
+.wrapper{
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.tab-content{
+  display: none;
+  min-height: 150px;
+}
+
+.tab-content.active {
+  display: block;
+}
+.tabs{
+  margin-bottom: 5%;
+}
+.tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+  min-height: 200px;
+}
+.row{
+  width: 70%;
+}
+span{
+  display: inline-block;
+}
+.left-input{
+  width: 92px;
+}
+.tip{
+  width: 197px;
+  display: none;
+}
+
